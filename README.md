@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on LLM
 - 📫 How to reach me yo can fnd me in testunit@mac.com
 - 😄 Pronouns: Pilartxo
-- ⚡ Fun fact: I worl with and old Mac
+- ⚡ Fun fact: I work with and old Mac
 
 <!---
 Pilarin19/Pilarin19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
